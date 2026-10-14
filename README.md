@@ -15,3 +15,9 @@
 ## Technology Interests
 - Generative AI search
 - Cattle burping remedies
+
+
+## Skills
+- Problem solving
+- Python basics
+- Teamwork
