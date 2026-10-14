@@ -10,3 +10,8 @@
 - Learn HTML to build website
 - Learn Visual Studio Code
 - Learn python language
+
+
+## Technology Interests
+- Generative AI search
+- Cattle burping remedies
