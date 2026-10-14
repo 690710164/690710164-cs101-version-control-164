@@ -4,3 +4,9 @@
 ## About Me
 - Name: Apivit Bunthupa
 - Major: Computer Science
+
+
+## My Learning Goals
+- Learn HTML to build website
+- Learn Visual Studio Code
+- Learn python language
